@@ -6,7 +6,9 @@ My educational background is in Economics at University College London, where I 
 
 My professional work began in Product Analytics for a global eCommerce/FinTech company where I developed a comprehensive Customer Segmentation solution using an (Unsupervised) Machine Learning model. Furthermore, I utilised pre-existing Python packages to calculate Customer Lifetime Value (CLV) to evaluate which users were most valuable. I then took a deep-dive into the company's Shopping Products and helped to track and evaluate the rollout of their Social Commerce platform for creators.
 
-Currently, I work on Marketing Data Science and Analytics for a Series A FinTech which has tripled its customer base over the previous year. Here, I am building out the 'gold standard' for approaching Product-led Growth and Experimentation, while supporting the Head of Marketing in evaluating new channels/strategies to improve customer acquisition and demand generation.
+Currently, I work on Marketing Data Science and Analytics for a Series A FinTech which has tripled its customer base over the previous year. Here, I am building out the 'gold standard' for approaching Product-led Growth and Experimentation, while supporting the Head of Marketing in evaluating new channels/strategies to improve customer acquisition and demand generation. 
+
+Recently I completed the GRE General Test with scores of 168 Q 161 V 5.0 AW as I look for my next educational challenge.
 <!--
 **henrybellhouse/henrybellhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

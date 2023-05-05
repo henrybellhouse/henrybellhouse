@@ -8,6 +8,8 @@ My professional work began in Product Analytics for a global eCommerce/FinTech c
 
 Currently, I work on Marketing Data Science and Analytics for a Series A FinTech which has tripled its customer base over the previous year. Here, I am building out the 'gold standard' for approaching Product-led Growth and Experimentation, while supporting the Head of Marketing in evaluating new channels/strategies to improve customer acquisition and demand generation.
 
+Also, my [Resume](https://www.figma.com/file/KtqyrHh6JmEAcvw1ulvrkP/Henry-Resume-(New)?type=design&node-id=0%3A1&t=cUVpxLXztUEiHtyY-1) may be useful, as I am forever interested in hearing about new opportunities and challenges that align with my skills and interests. Thank you for reading!
+
 <!--
 **henrybellhouse/henrybellhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

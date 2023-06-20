@@ -8,7 +8,7 @@ My professional work began in Product Analytics for a global eCommerce/FinTech c
 
 Currently, I am working on applications for graduate education, and learning Korean with the view to working on social commerce products in Seoul for a part of my life. 
 
-I am proficient in Python (NumPy, Pandas, Scipy, Scikit-Learn), SQL (Snowflake, BigQuery), Mixpanel, R, Git (Version Control) and MATLAB
+I am proficient in Python (NumPy, Pandas, Scipy, Scikit-Learn), SQL (Snowflake, BigQuery), R and MATLAB
 
 <!--
 **henrybellhouse/henrybellhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,11 @@ I love using quantitative research, applied mathematics and statistics so great 
 My educational background is in Economics at University College London, where I concentrated in Behavioural Economics and Econometrics and received First Class Honours. Here, I ran a student-led Venture Capital fund and sourced, evaluated and supported startups in eCommerce, Social Selling and FinTech spaces.
 
 My professional work began in Product Analytics for a global eCommerce/FinTech company where I developed a comprehensive Customer Segmentation solution using an (Unsupervised) Machine Learning model. Furthermore, I utilised pre-existing Python packages to calculate Customer Lifetime Value (CLV) to evaluate which users were most valuable. I then took a deep-dive into the company's Shopping Products and helped to track and evaluate the rollout of their Social Commerce platform for creators.
+
+Currently, I am working on applications for graduate education, and learning Korean with the view to working on social commerce products in Seoul for a part of my life. 
+
+# Technical: Python (NumPy, Pandas, Scipy, Scikit-Learn), SQL (Snowflake, BigQuery), Mixpanel, R, Git (Version Control), MATLAB
+
 <!--
 **henrybellhouse/henrybellhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

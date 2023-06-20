@@ -1,6 +1,6 @@
 ### Hello, I am Henry!
 
-I love Statistics, Experimental Design and scaling great products to be loved by as many users as possible. In particular, Decision Science is a good explanation of the work I conduct, looking to better understand user behaviour in every step of the product development process, relaying insights to Product Managers and Engineers, and acting as their compass.
+I love using quantitative research, applied mathematics and statistics so great products can be loved by as many users as possible. In particular, 'decision science' is a good explanation of the work I conduct, looking to better understand user behaviour in every step of the product development process, relaying insights to Product Managers and Engineers, and acting as their compass.
 
 My educational background is in Economics at University College London, where I concentrated in Behavioural Economics and Econometrics and received First Class Honours. Here, I ran a student-led Venture Capital fund and sourced, evaluated and supported startups in eCommerce, Social Selling and FinTech spaces.
 

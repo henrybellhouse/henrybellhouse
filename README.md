@@ -6,7 +6,7 @@ My educational background is in Economics at University College London, where I 
 
 My professional work began in Product Analytics for a global eCommerce/FinTech company where I developed a comprehensive Customer Segmentation solution using an (Unsupervised) Machine Learning model. Furthermore, I utilised pre-existing Python packages to calculate Customer Lifetime Value (CLV) to evaluate which users were most valuable. I then took a deep-dive into the company's Shopping Products and helped to track and evaluate the rollout of their Social Commerce platform for creators.
 
-Currently, I am working on applications for graduate education, and learning Korean with the view to working on social commerce products in Seoul for a part of my life. When I visited South Korea I was intrigued by the strong influence of its pop stars and actors, as well as the roles technology and shopping have in everyday life.
+I now work as a Product Data Scientist in a B2C FinTech building financial products in compliance with FCA and ASA regulations.
 
 I am proficient in Python (NumPy, Pandas, Scipy, Scikit-Learn), SQL and am learning C/C++.
 
